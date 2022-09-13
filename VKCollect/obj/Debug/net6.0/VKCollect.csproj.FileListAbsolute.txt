@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\VKCollect.exe
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\VKCollect.deps.json
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\VKCollect.runtimeconfig.json
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\VKCollect.dll
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\ref\VKCollect.dll
+C:\Users\Admin\source\repos\VKCollect\VKCollect\bin\Debug\net6.0\VKCollect.pdb
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.dll
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\ref\VKCollect.dll
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.pdb
+C:\Users\Admin\source\repos\VKCollect\VKCollect\obj\Debug\net6.0\VKCollect.genruntimeconfig.cache
